@@ -22,7 +22,7 @@ import javax.swing.JTextArea;
 public class DemostracionJFileChooser extends JFrame {
     /**Muestra el contenido de la salida.*/
     private final JTextArea areaSalida;
-    /***/
+    /**Panel con el scroll vertical y horizontal.*/
     private JScrollPane panel;
     /**Constructor.
      * 
